@@ -1,11 +1,11 @@
-base_url = "https://guilloteauQ.github.io/workshop-repro-isc26"
+base_url = "https://guilloteauQ.github.io/workshop-repro-isc26/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
 minify_html = true
 
 [markdown]
-highlight_code = true
+highlight_code = false
 highlight_theme = "css"
 smart_punctuation = true
 
