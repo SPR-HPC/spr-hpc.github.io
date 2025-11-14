@@ -8,7 +8,22 @@ title = "Call for Contributions"
 
 ## Topic of Interests
 
-- plop
+- Feedbacks/Lessons learned/Success stories from artifacts authors, reviewers, chairs, trying to package an experiment or trying to reproduce an experiment
+- Methods to create a "minimal reproducible experiment" to proxy the reproduction on the energy consumming full-scale version
+- Energy-efficient artifact reproduction in HPC
+- Case studies of sustainable (or unsustainable) artifact evaluation in HPC
+- Long-term reproduciblity: ensuring artifacts remain accessible and evaluable as hardware/software evolves
+- Feedback from teaching HPC reproducibility principles
+- Methods and tools to create a standalone and portable experiment
+- Methods and tools to support reproducibility in HPC from the early development stages
+- Methods and tools to support FAIR principles
+- Methods and tools to support provenance
+- Tools and services that should be offered by HPC centers and testbeds to improve/support reproducibility
+- Billing, access, and "security" to HPC centers and testbeds for reproduction attempts
+- Proposals for new Artifact Evaluations processes (timelines, badges, reports, interactions between authors and reviewers, reviewer roles, etc.)
+- Incentives and recognition for Reproducibility in HPC (for authors and reviewers)
+- Human-centric sustainability: reducing reviewer/author fatigue and chair workload.
+- Community standards for balancing rigor, efficiency, and human effort
 
 
 {{ new_block() }}

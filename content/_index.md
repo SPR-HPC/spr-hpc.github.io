@@ -45,7 +45,7 @@ TODO
 | 11:30 - 12:30 | Invited Talk                 |
 | 12:30 - 13:00 | Panel (with the Presenters?) |
 
-[more details](https://guilloteauq.github.io/workshop-repro-isc26/program)
+[more details](/program)
 
 
 {{ new_block() }}
