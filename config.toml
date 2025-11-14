@@ -1,4 +1,4 @@
-base_url = "https://spr-hpc.github.io/2026/"
+base_url = "https://spr-hpc.github.io/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
