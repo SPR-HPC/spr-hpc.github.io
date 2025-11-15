@@ -1,5 +1,5 @@
 +++
-title = "Committe"
+title = "Committee"
 +++
 
 # Committees
@@ -8,20 +8,20 @@ title = "Committe"
 
 {{ grid(
     text = [
-        ["Quentin Guilloteau", "INRIA"],
-        ["Valérie Hayot-Sasson", ""],
-        ["Josef Weidendorfer", ""],
-        ["Dennis Hoppe", ""],
-        ["Bruno Raffin", ""],
-        ["Abdullatif Eymash", ""]
+        ["Quentin Guilloteau", "INRIA", "Web Chair"],
+        ["Valérie Hayot-Sasson", "ETS Montréal", "Publicity Chair"],
+        ["Josef Weidendorfer", "LRZ"],
+        ["Dennis Hoppe", "HLRS"],
+        ["Bruno Raffin", "INRIA"],
+        ["Abdullatif Eymash", "HLRS"]
     ],
     urls = [
         "https://guilloteauq.github.io",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "https://www.etsmtl.ca/en/study-at-ets/professors/vhayot-sasson",
+        "https://www.ce.cit.tum.de/caps/mitarbeiter/josef-weidendorfer/",
+        "https://www.hlrs.de/people/dennis-hoppe",
+        "https://datamove.imag.fr/bruno.raffin/",
+        "https://www.hlrs.de/people/abdullatif-eymash"
     ],
     image_dir = "organizers") }}
 
@@ -29,6 +29,4 @@ title = "Committe"
 
 ## Program Committee
 
-- Plop
-- Plap
 - ...

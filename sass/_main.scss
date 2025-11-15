@@ -2,9 +2,9 @@
     --color-primary: var(--color-text);
 }
 .fade {
-    background: color-mix(in srgb, var(--color-light) 95%, transparent);
-    box-shadow: 0 0 2rem 2rem color-mix(in srgb, var(--color-light) 95%, transparent);
-    border-radius: 10rem;
+    background: color-mix(in srgb, var(--color-light) 97%, transparent);
+    box-shadow: 0 0 2rem 2rem color-mix(in srgb, var(--color-light) 97%, transparent);
+    border-radius: 0rem;
 }
 .header h1 {
     font-size: 3rem;
