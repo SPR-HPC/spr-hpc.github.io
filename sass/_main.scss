@@ -2,12 +2,17 @@
     --color-primary: var(--color-text);
 }
 .fade {
-    background: color-mix(in srgb, var(--color-light) 97%, transparent);
-    box-shadow: 0 0 2rem 2rem color-mix(in srgb, var(--color-light) 97%, transparent);
-    border-radius: 0rem;
+    // background: color-mix(in srgb, var(--color-light) 97%, transparent);
+    // box-shadow: 0 0 2rem 2rem color-mix(in srgb, var(--color-light) 97%, transparent);
+    // border-radius: 0rem;
+    background: color-mix(in srgb, var(--color-light) 75%, transparent);
+    box-shadow: 0 0 4rem 4rem color-mix(in srgb, var(--color-light) 75%, transparent);
+    border-radius: 10rem;
 }
 .header h1 {
-    font-size: 3rem;
+    font-size: 5rem;
+    color: #9681e8;
+    font-weight: bold;
 }
 .tagline::after {
     content: "\A";
@@ -55,4 +60,5 @@
 }
 .content > h1 {
     text-align: center;
+    color: #9681e8;
 }
